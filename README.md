@@ -40,12 +40,7 @@ GitHub: [Aswinsaipalakonda/krrCare](https://github.com/Aswinsaipalakonda/krrCare
 
 ## Deploying the Site
 
-You can deploy this site using GitHub Pages:
-
-1. Push your changes to the `main` branch.
-2. Go to your repository settings on GitHub.
-3. Under "Pages", select the branch and folder (`/root` or `/docs`) to publish.
-4. Your site will be live at `https://aswinsaipalakonda.github.io/krrCare/`.
+You can deploy this site using GitHub Pages or Vecel
 
 
 ## Screenshots
