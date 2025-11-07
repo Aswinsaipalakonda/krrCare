@@ -7,26 +7,6 @@ Welcome to **krrCare**! This project is a web application for showcasing product
 
 GitHub: [Aswinsaipalakonda/krrCare](https://github.com/Aswinsaipalakonda/krrCare)
 
-## How to Clone and Run Locally
-
-1. Clone the repository:
-	```powershell
-	git clone https://github.com/Aswinsaipalakonda/krrCare.git
-	```
-2. Navigate to the project folder:
-	```powershell
-	cd krrCare
-	```
-3. Open `index.html` in your browser to view the site.
-
-## Deploying the Site
-
-You can deploy this site using GitHub Pages:
-
-1. Push your changes to the `main` branch.
-2. Go to your repository settings on GitHub.
-3. Under "Pages", select the branch and folder (`/root` or `/docs`) to publish.
-4. Your site will be live at `https://aswinsaipalakonda.github.io/krrCare/`.
 
 ## Features
 
@@ -47,12 +27,30 @@ You can deploy this site using GitHub Pages:
 
 ## Getting Started
 
-1. Clone the repository.
-2. Open `index.html` in your browser.
+1. Clone the repository:
+	```powershell
+	git clone https://github.com/Aswinsaipalakonda/krrCare.git
+	```
+2. Navigate to the project folder:
+	```powershell
+	cd krrCare
+	```
+3. Open `index.html` in your browser to view the site.
+
+
+## Deploying the Site
+
+You can deploy this site using GitHub Pages:
+
+1. Push your changes to the `main` branch.
+2. Go to your repository settings on GitHub.
+3. Under "Pages", select the branch and folder (`/root` or `/docs`) to publish.
+4. Your site will be live at `https://aswinsaipalakonda.github.io/krrCare/`.
+
 
 ## Screenshots
 
-![Product Gallery](images/products/sample-product.png)
+![Product Gallery](images/products/1img.png)
 
 ## Technologies Used
 
