@@ -1,6 +1,5 @@
 # krrCare
 
-![Logo](images/products/logo.png)
 
 Welcome to **krrCare**! This project is a web application for showcasing products with a modern UI.
 
