@@ -55,7 +55,7 @@ You can deploy this site using GitHub Pages or Vecel
 
 ## Author
 
-- 👤 Aswin Sai Palakonda - Made with ❤️
+- 👤 Aswinsai Palakonda - Made with ❤️
 
 ## License
 
